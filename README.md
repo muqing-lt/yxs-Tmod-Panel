@@ -125,4 +125,4 @@ A: 默认位于运行目录下的 ./server/storage/Worlds。你可以在“房�
 
 📄 开源协议
 
-MIT License
+AGPL-3.0 License
